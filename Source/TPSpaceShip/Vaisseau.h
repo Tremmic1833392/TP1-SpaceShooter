@@ -22,6 +22,7 @@ public:
 
 protected:
 	// Called when the game starts or when spawned
+	// Commentaire exemple de conflit 1
 	virtual void BeginPlay() override;
 	virtual void SetupPlayerInputComponent(UInputComponent* PlayerInputComponent) override;
 
