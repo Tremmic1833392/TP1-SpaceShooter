@@ -22,6 +22,7 @@ public:
 
 protected:
 	// Called when the game starts or when spawned
+	// Exemple commentmaire 2 merge 
 	virtual void BeginPlay() override;
 	virtual void SetupPlayerInputComponent(UInputComponent* PlayerInputComponent) override;
 
